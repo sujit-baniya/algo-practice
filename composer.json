@@ -1,0 +1,17 @@
+{
+    "name": "sujit/algo-practice",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sujit\\AlgoPractice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sujit",
+            "email": "itsursujit@gmail.com"
+        }
+    ],
+    "require": {}
+}
